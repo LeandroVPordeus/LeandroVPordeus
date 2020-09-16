@@ -16,10 +16,10 @@ I worked with networks for seven years, always with technology and always active
  
 <b>Principais Skills</b>
 
-<img align="left" width="36px" src="https://th.bing.com/th/id/OIP._yDdPtR_ppK-EfT2BhoQzgHaHa?w=178&h=180&c=7&o=5&dpr=1.25&pid=1.7" />
-<img align="left" width="36px" src="https://th.bing.com/th/id/OIP.rnrXGb4iu7B3ti5VoYewIQAAAA?w=161&h=180&c=7&o=5&dpr=1.25&pid=1.7" />
-<img align="left" width="36px" src="https://th.bing.com/th/id/OIP.DN7ToydkJZEdVaJVK_NhvwHaHa?w=178&h=180&c=7&o=5&dpr=1.25&pid=1.7" />
-<img align="left" width="40px" src="https://th.bing.com/th/id/OIP.CtHRfxjyXRAADIS8gue9nwHaHa?w=163&h=180&c=7&o=5&dpr=1.25&pid=1.7" />
+<img align="left" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
+<img align="left" width="36px" src="" />
+<img align="left" width="36px" src="" />
+<img align="left" width="40px" src="" />
 <img align="left" width="40px" src="https://th.bing.com/th/id/OIP.xePC9eCXE-p7xCpCMUAaFgHaHa?w=167&h=180&c=7&o=5&dpr=1.25&pid=1.7" />
 <img align="left" width="36px" src="https://th.bing.com/th/id/OIP.ZKbg8HdzzxdYHnbKCeF9vAHaHa?w=150&h=150&c=7&o=5&dpr=1.25&pid=1.7" />
 <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
