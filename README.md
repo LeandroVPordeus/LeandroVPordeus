@@ -10,6 +10,7 @@ Meu aprendizado é baseado na criação de projetos e na contribuição para a c
  - 😊 Apaixonado por tecnologia. 
  
  - 🌐 De olho em novas oportunidades.
- 
+  
+  ![C#](https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png)
 
  [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/jose-leandro-v-b60904130/)](https://www.linkedin.com/in/jose-leandro-v-b60904130/)
