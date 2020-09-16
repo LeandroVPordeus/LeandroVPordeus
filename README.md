@@ -19,7 +19,6 @@ I worked with networks for seven years, always with technology and always active
 <img align="left" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
 <img align="left" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />
 <img align="left" width="36px" src="http://s.glbimg.com/po/tt/f/original/2012/04/17/mysql-logos.gif" />
-<img align="left" width="40px" src="" />
 <img align="left" width="40px" src="https://th.bing.com/th/id/OIP.xePC9eCXE-p7xCpCMUAaFgHaHa?w=167&h=180&c=7&o=5&dpr=1.25&pid=1.7" />
 <img align="left" width="36px" src="https://th.bing.com/th/id/OIP.ZKbg8HdzzxdYHnbKCeF9vAHaHa?w=150&h=150&c=7&o=5&dpr=1.25&pid=1.7" />
 <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -35,7 +34,7 @@ I worked with networks for seven years, always with technology and always active
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/guilherme-humberto/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/jose-leandro-v-b60904130/)
 
 </p>
 
