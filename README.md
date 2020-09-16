@@ -31,6 +31,6 @@ Principal Skills:
  
  - 🌐 De olho em novas oportunidades.
   
-  ![C#](https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png)
+  ![C#](https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/csharp_256x256.png)
 
  [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/jose-leandro-v-b60904130/)](https://www.linkedin.com/in/jose-leandro-v-b60904130/)
