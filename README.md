@@ -4,7 +4,7 @@ Trabalhei com redes durante sete anos sempre amei tecnologia e sempre tive curio
 
 I worked with networks for seven years, always with technology and always active curiosity, to learn more about everything, but I am currently migrating and focusing on the DEV area; In the last few years, I started to be more interested in monitoring, but I never had time to plan and engage in the area, I am currently taking a course at SENAI Development Technician and on other platforms to improve, I hope that some company will start me "Because until the same as Arrays start at 0 ".
 
-Principal Skills:
+Principais Skills:
 
 - C# 🖤
 - .NET Framework / .NET Core
