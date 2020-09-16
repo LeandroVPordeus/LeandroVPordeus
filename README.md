@@ -3,6 +3,9 @@
 #Desenvolvedor Full-Stack Júnior, busco aprender e ampliar meus conhecimento no desenvolvimento de software.
 Meu aprendizado é baseado na criação de projetos e na contribuição para a comunidade de código aberto
 
-
-
-    ![Git](https://camo.githubusercontent.com/353858877ecb88cbb32c9c013f2f6c7cbf1527de/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270)
+ - 👨🏽‍💻 Estudante de desenvolvimento de softwares.
+ - 🤝 Sempre em busca de novos desafios e conhecimentos.
+ - 😊 Apaixonado por tecnologia.
+ - 🌐 De olho em novas oportunidades.
+ 
+![Like](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/jose-leandro-v-b60904130/)
