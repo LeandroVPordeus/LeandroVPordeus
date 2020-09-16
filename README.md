@@ -17,7 +17,7 @@ I worked with networks for seven years, always with technology and always active
 <b>Principais Skills</b>
 
 <img align="left" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
-<img align="left" width="36px" src="" />
+<img align="left" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />
 <img align="left" width="36px" src="" />
 <img align="left" width="40px" src="" />
 <img align="left" width="40px" src="https://th.bing.com/th/id/OIP.xePC9eCXE-p7xCpCMUAaFgHaHa?w=167&h=180&c=7&o=5&dpr=1.25&pid=1.7" />
